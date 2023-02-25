@@ -1,0 +1,17 @@
+# ninja log v5
+15	351	6986973549200713	CMakeFiles/my_lib.dir/vector/vector.cpp.obj	2682004c3fb2335
+9	630	6986973935999371	CMakeFiles/my_lib.dir/main.cpp.obj	6c42ca2a5236b4e2
+710	920	6986973554984215	my_lib.exe	76dbd7115327b191
+1	241	6989264839859283	build.ninja	f3480405b9beb042
+26	819	6986943081588338	CMakeFiles/my_lib.dir/list/listnode.cpp.obj	a6e94214d4ac274e
+148	374	6986973549686624	CMakeFiles/my_lib.dir/avl/avl.cpp.obj	630bae32910721e2
+10	166	6986934931585784	CMakeFiles/my_lib.dir/vector.cpp.obj	94d58981d0475af0
+13	821	6986943081588338	CMakeFiles/my_lib.dir/list/list.cpp.obj	8f53a62acba43f51
+16	833	6986968962850731	CMakeFiles/my_lib.dir/stack/stack_list.cpp.obj	e13158cf58705939
+11	840	6986968963107920	CMakeFiles/my_lib.dir/entry/entry.cpp.obj	bc7f31e615403c09
+31	834	6986968962904351	CMakeFiles/my_lib.dir/queue/queue.cpp.obj	8e1b7d6c7a09f52
+38	385	6986973549814464	CMakeFiles/my_lib.dir/bintree/bintree.cpp.obj	ddec426053044d90
+157	417	6986973550030411	CMakeFiles/my_lib.dir/bst/bst.cpp.obj	895c390ba4eee2c5
+22	341	6986973549181597	CMakeFiles/my_lib.dir/stack/stack_vector.cpp.obj	2c8d92009b3c93ba
+30	377	6986973549602112	CMakeFiles/my_lib.dir/bintree/binnode.cpp.obj	5c84099e69a5cccb
+142	475	6986973550658255	CMakeFiles/my_lib.dir/stack/infix_expression.cpp.obj	83f79b98a8f9eb84
